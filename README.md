@@ -1,1 +1,2 @@
-# Analizator
+# Analizator 
+консольный анализатор текста
